@@ -1,7 +1,7 @@
 # Awesome-Graph-Embedding
 Awesome Graph Embedding Techniques
 
-*****Random Walk**:
+**Random Walk**:
 - Deep Walk
     - [Paper](http://cn.arxiv.org/pdf/1403.6652.pdf)
     - [Code link](https://github.com/phanein/deepwalk)
