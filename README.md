@@ -29,3 +29,4 @@ Awesome Graph Embedding Techniques
  - [NetworkX](https://networkx.github.io/documentation/networkx-1.10/tutorial/tutorial.html)
  - [iGraph](http://igraph.org/)
  - [graph-tool](https://graph-tool.skewed.de/)
+ - [python-graph](https://github.com/Shoobx/python-graph)
