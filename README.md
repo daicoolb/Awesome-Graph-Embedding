@@ -24,4 +24,7 @@ Awesome Graph Embedding Techniques
  **C++**
  - [Boost Graph](https://www.boost.org/doc/libs/1_58_0/libs/graph/doc/)
  - [NGraoh](https://math.nist.gov/~RPozo/ngraph/ngraph_index.html)
+ 
+ **Python**
+ - [NetworkX](https://networkx.github.io/documentation/networkx-1.10/tutorial/tutorial.html)
 
