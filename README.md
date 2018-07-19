@@ -18,4 +18,10 @@ Awesome Graph Embedding Techniques
 - Graph Embedding Techniques, Applications, and Performance: A Survey
     - [Paper](http://cn.arxiv.org/pdf/1705.02801.pdf)
     - [Code link](https://github.com/palash1992/GEM)
+    
+ # Graph Construct
+ 
+ **C++**
+ - [Boost Graph](https://www.boost.org/doc/libs/1_58_0/libs/graph/doc/)
+ - [NGraoh](https://math.nist.gov/~RPozo/ngraph/ngraph_index.html)
 
