@@ -25,6 +25,8 @@ Awesome Graph Embedding Techniques
 - CANE: Context-Aware Network Embedding for Relation Modeling
     - [Paper](http://www.thunlp.org/~tcc/publications/acl2017_cane.pdf)
     - [Code link](https://github.com/thunlp/CANE)
+- Graph Convolutional Neural Networks for Web-Scale Recommender Systems
+    - [Paper](http://cn.arxiv.org/pdf/1806.01973.pdf)
     
 **Survey**:
 - Graph Embedding Techniques, Applications, and Performance: A Survey
