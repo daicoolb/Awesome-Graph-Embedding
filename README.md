@@ -30,6 +30,8 @@ Awesome Graph Embedding Techniques
 - Graph Embedding Techniques, Applications, and Performance: A Survey
     - [Paper](http://cn.arxiv.org/pdf/1705.02801.pdf)
     - [Code link](https://github.com/palash1992/GEM)
+- Representation Learning on Graphs: Methods and Applications
+    - [Paper](https://cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf)
     
  # Graph Construct
  
