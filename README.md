@@ -11,6 +11,9 @@ Awesome Graph Embedding Techniques
 - Metapath2Vec
     - [Paper](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf)
     - [Code link](https://ericdongyx.github.io/metapath2vec/m2v.html)
+- Inductive Representation Learning on Large Graphs
+    - [Paper](https://ericdongyx.github.io/metapath2vec/m2v.html)
+    - [Code link](https://github.com/williamleif/GraphSAGE)
 
 **Deep Learning**:
 - Graph Convolutional Neural Network
