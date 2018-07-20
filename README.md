@@ -13,6 +13,9 @@ Awesome Graph Embedding Techniques
 - Graph Convolutional Neural Network
     - [Paper](http://cn.arxiv.org/pdf/1609.02907.pdf)
     - [Code link](https://github.com/tkipf/gcn)
+- Structural Deep Network Embedding
+    - [Paper](http://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf)
+    - [Code link](https://github.com/xiaohan2012/sdne-keras)
 
 **Survey**:
 - Graph Embedding Techniques, Applications, and Performance: A Survey
