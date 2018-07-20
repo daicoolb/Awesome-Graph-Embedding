@@ -34,6 +34,8 @@ Awesome Graph Embedding Techniques
     - [Code link](https://github.com/palash1992/GEM)
 - Representation Learning on Graphs: Methods and Applications
     - [Paper](https://cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf)
+- Relational inductive biases, deep learning, and graph networks
+    - [Paper](http://cn.arxiv.org/pdf/1806.01261.pdf)
     
  # Graph Construct
  
