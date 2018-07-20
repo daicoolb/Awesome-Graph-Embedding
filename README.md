@@ -16,7 +16,10 @@ Awesome Graph Embedding Techniques
 - Structural Deep Network Embedding
     - [Paper](http://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf)
     - [Code link](https://github.com/xiaohan2012/sdne-keras)
-
+- CANE: Context-Aware Network Embedding for Relation Modeling
+    - [Paper](http://www.thunlp.org/~tcc/publications/acl2017_cane.pdf)
+    - [Code link](https://github.com/thunlp/CANE)
+    
 **Survey**:
 - Graph Embedding Techniques, Applications, and Performance: A Survey
     - [Paper](http://cn.arxiv.org/pdf/1705.02801.pdf)
