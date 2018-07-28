@@ -36,6 +36,11 @@ Awesome Graph Embedding Techniques
     - [Paper](https://cs.stanford.edu/people/jure/pubs/graphrepresentation-ieee17.pdf)
 - Relational inductive biases, deep learning, and graph networks
     - [Paper](http://cn.arxiv.org/pdf/1806.01261.pdf)
+- Network Representation Learning: An Overview.(In Chinese)
+    - [Paper](http://engine.scichina.com/publisher/scp/journal/SSI/47/8/10.1360/N112017-00145)
+- Network Representation Learning: A Survey
+    - [Paper](http://cn.arxiv.org/pdf/1801.05852.pdf)
+
     
  # Graph Construct
  
