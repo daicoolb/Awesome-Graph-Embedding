@@ -13,21 +13,15 @@ Awesome Graph Embedding Techniques
     
 
 **Deep Learning**:
-- Graph Convolutional Neural Network
-    - [Paper](http://cn.arxiv.org/pdf/1609.02907.pdf)
-    - [Code link](https://github.com/tkipf/gcn)
-- Structural Deep Network Embedding
-    - [Paper](http://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf)
-    - [Code link](https://github.com/xiaohan2012/sdne-keras)
-- CANE: Context-Aware Network Embedding for Relation Modeling
-    - [Paper](http://www.thunlp.org/~tcc/publications/acl2017_cane.pdf)
-    - [Code link](https://github.com/thunlp/CANE)
-- Graph Convolutional Neural Networks for Web-Scale Recommender Systems
-    - [Paper](http://cn.arxiv.org/pdf/1806.01973.pdf)
-- ANRL: Attributed Network Representation Learning via Deep Neural Networks
-    - [Paper](https://www.ijcai.org/proceedings/2018/0438.pdf)
-- Deep Inductive Network Representation Learning
-    - [Paper](http://ryanrossi.com/pubs/rossi-et-al-WWW18-BigNet.pdf)
+| Name | Paper Link | Code Link |
+| ---- | ---- | ----- |
+| Graph Convolutional Neural Network | [Paper](http://cn.arxiv.org/pdf/1609.02907.pdf) | [Code link](https://github.com/tkipf/gcn) |
+| Structural Deep Network Embedding |  [Paper](http://www.kdd.org/kdd2016/papers/files/rfp0191-wangAemb.pdf) | [Code link](https://github.com/xiaohan2012/sdne-keras)|
+|CANE: Context-Aware Network Embedding for Relation Modeling | [Paper](http://www.thunlp.org/~tcc/publications/acl2017_cane.pdf) | [Code link](https://github.com/thunlp/CANE) |
+| Graph Convolutional Neural Networks for Web-Scale Recommender Systems| [Paper](http://cn.arxiv.org/pdf/1806.01973.pdf) | - |
+| ANRL: Attributed Network Representation Learning via Deep Neural Networks| [Paper](https://www.ijcai.org/proceedings/2018/0438.pdf)|-|
+| Deep Inductive Network Representation Learning | [Paper](http://ryanrossi.com/pubs/rossi-et-al-WWW18-BigNet.pdf) | - |
+    
 - Deep Attributed Network Embedding
     - [Paper](http://www.ijcai.org/proceedings/2018/0467.pdf)
 - Constructing Narrative Event Evolutionary Graph for Script Event Prediction
