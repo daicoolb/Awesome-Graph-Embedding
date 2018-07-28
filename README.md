@@ -2,9 +2,12 @@
 Awesome Graph Embedding Techniques
 
 **Random Walk**:
-- Deep Walk
-    - [Paper](http://cn.arxiv.org/pdf/1403.6652.pdf)
-    - [Code link](https://github.com/phanein/deepwalk)
+
+| Name | Paper Link | Code Link | 
+| ---  | ---- | ---- |
+| Deep Walk | [Paper](http://cn.arxiv.org/pdf/1403.6652.pdf) | [Code link](https://github.com/phanein/deepwalk)|
+
+
 - LINE
     - [Paper](http://cn.arxiv.org/pdf/1503.03578.pdf)
     - [Code link](https://github.com/tangjianpku/LINE)
