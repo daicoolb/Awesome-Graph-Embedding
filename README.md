@@ -13,6 +13,7 @@ Awesome Graph Embedding Techniques
     
 
 **Deep Learning**:
+
 | Name | Paper Link | Code Link |
 | ---- | ---- | ----- |
 | Graph Convolutional Neural Network | [Paper](http://cn.arxiv.org/pdf/1609.02907.pdf) | [Code link](https://github.com/tkipf/gcn) |
