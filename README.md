@@ -25,7 +25,6 @@ Awesome Graph Embedding Techniques
 | Deep Attributed Network Embedding | [Paper](http://www.ijcai.org/proceedings/2018/0467.pdf)
 | Constructing Narrative Event Evolutionary Graph for Script Event Prediction | [Paper](http://cn.arxiv.org/pdf/1805.05081.pdf) | [Code link](https://github.com/eecrazy/ConstructingNEEG_IJCAI_2018) |
 | Stochastic Training of Graph Convolutional Networks with Variance Reduction | [Paper](http://cn.arxiv.org/pdf/1710.10568.pdf) |-|
-| Graph Attention Networks| [Paper](http://cn.arxiv.org/pdf/1710.10903.pdf) | -| 
 | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | [Paper](http://cn.arxiv.org/pdf/1801.10247.pdf)|-|
 |Large-Scale Learnable Graph Convolutional Networks| [Paper](http://www.kdd.org/kdd2018/accepted-papers/view/large-scale-learnable-graph-convolutional-networks)|[Code link](https://github.com/HongyangGao/LGCN)|
 |Learning Deep Network Representations with Adversarially Regularized Autoencoders | [Paper](http://www.kdd.org/kdd2018/accepted-papers/view/learning-deep-network-representations-with-adversarially-regularized-autoen) | - |
