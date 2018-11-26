@@ -10,6 +10,7 @@ Awesome Graph Embedding Techniques
 | Node2Vec | [Paper](http://cn.arxiv.org/pdf/1607.00653.pdf) | [Code link](https://github.com/aditya-grover/node2vec) |
 | Metapath2Vec | [Paper](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf) | [Code link](https://ericdongyx.github.io/metapath2vec/m2v.html) | 
 |Anonymous Walk Embeddings|[Paper](http://cn.arxiv.org/pdf/1805.11921.pdf)|[Code link](https://github.com/nd7141/AWE)|
+|NetGAN: Generating Graphs via Random Walks|[Paper](http://cn.arxiv.org/pdf/1803.00816.pdf)|[Code link](https://github.com/danielzuegner/netgan)|
     
 
 **Deep Learning**:
