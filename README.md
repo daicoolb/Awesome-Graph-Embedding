@@ -27,7 +27,7 @@ Awesome Graph Embedding Techniques
 | Stochastic Training of Graph Convolutional Networks with Variance Reduction | [Paper](http://cn.arxiv.org/pdf/1710.10568.pdf) |-|
 | Graph Attention Networks| [Paper](http://cn.arxiv.org/pdf/1710.10903.pdf) | -| 
 | FastGCN: Fast Learning with Graph Convolutional Networks via Importance Sampling | [Paper](http://cn.arxiv.org/pdf/1801.10247.pdf)|-|
-|Large-Scale Learnable Graph Convolutional Networks| [Paper](http://www.kdd.org/kdd2018/accepted-papers/view/large-scale-learnable-graph-convolutional-networks)|-|
+|Large-Scale Learnable Graph Convolutional Networks| [Paper](http://www.kdd.org/kdd2018/accepted-papers/view/large-scale-learnable-graph-convolutional-networks)|[Code link](https://github.com/HongyangGao/LGCN)|
 |Learning Deep Network Representations with Adversarially Regularized Autoencoders | [Paper](http://www.kdd.org/kdd2018/accepted-papers/view/learning-deep-network-representations-with-adversarially-regularized-autoen) | - |
 | Easing Embedding Learning by Comprehensive Transcription of Heterogeneous Information Networ | [Paper](http://yushi2.web.engr.illinois.edu/kdd18.pdf) | - |
 | Learning Structural Node Embeddings via Diffusion Wavelets | [Paper](http://cn.arxiv.org/pdf/1710.10321.pdf) | - |
