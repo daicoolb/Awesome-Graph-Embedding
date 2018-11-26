@@ -32,6 +32,7 @@ Awesome Graph Embedding Techniques
 | Easing Embedding Learning by Comprehensive Transcription of Heterogeneous Information Networ | [Paper](http://yushi2.web.engr.illinois.edu/kdd18.pdf) | - |
 | Learning Structural Node Embeddings via Diffusion Wavelets | [Paper](http://cn.arxiv.org/pdf/1710.10321.pdf) | - |
 | NetWalk: A Flexible Deep Embedding Approach for Anomaly Detection in Dynamic Networks |[Paper](http://www.kdd.org/kdd2018/accepted-papers/view/netwalk-a-flexible-deep-embedding-approach-for-anomaly-detection-in-dynamic) | - |
+|Inductive Representation Learning on Large Graphs|[Paper](http://cn.arxiv.org/pdf/1706.02216.pdf)|[CodeLink](https://github.com/williamleif/GraphSAGE)|
     
 **Survey**:
 - Graph Embedding Techniques, Applications, and Performance: A Survey
