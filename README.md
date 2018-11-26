@@ -9,7 +9,7 @@ Awesome Graph Embedding Techniques
 | LINE |  [Paper](http://cn.arxiv.org/pdf/1503.03578.pdf) | [Code link](https://github.com/tangjianpku/LINE) |
 | Node2Vec | [Paper](http://cn.arxiv.org/pdf/1607.00653.pdf) | [Code link](https://github.com/aditya-grover/node2vec) |
 | Metapath2Vec | [Paper](https://ericdongyx.github.io/papers/KDD17-dong-chawla-swami-metapath2vec.pdf) | [Code link](https://ericdongyx.github.io/metapath2vec/m2v.html) | 
-| Inductive Representation Learning on Large Graphs |  [Paper](https://ericdongyx.github.io/metapath2vec/m2v.html) | [Code link](https://github.com/williamleif/GraphSAGE) |
+|Anonymous Walk Embeddings|[Paper](http://cn.arxiv.org/pdf/1805.11921.pdf)|[Code link](https://github.com/nd7141/AWE)|
     
 
 **Deep Learning**:
